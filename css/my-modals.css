@@ -1,0 +1,28 @@
+#helpdeskmodal h4{
+	color: white;
+	text-decoration: bold;
+	text-align: center;
+	font-family: times-new-romans;
+	font-size: 30px;
+}
+
+#helpdeskmodal p{
+	color: black;
+	text-decoration: bold;
+	text-align: center;
+	font-family: times-new-romans;
+	font-size: 18px;
+}
+.helpdeskheader{
+	background: #010021 ;
+}
+.helpdeskheader button{
+	background:white;
+	color:black;
+	width: 25px;
+}
+
+.helpdeskheader button:hover{
+	background:red;
+	color:black;
+	width: 25px;

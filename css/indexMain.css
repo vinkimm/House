@@ -1,0 +1,307 @@
+.logo a:hover{
+
+ text-decoration: none;
+}
+
+/*navigation bar */
+
+.nav-academics ul>li>ul>{
+	display: block;
+	align-items: vertical;
+	align-content: vertical;
+}
+.navigation-bar ul>li>ul>li>{
+	display: block;
+	width: 50%;
+}
+
+/*slider bottom Text*/
+
+#exampleSliderBottom{
+	height: 50px;
+}
+
+
+/*other dive populator*/
+
+#otherContents{
+	font-family: aerial;
+	font-style: none;
+	text-decoration:none;
+	color: black;
+}
+#otherContents p{
+	font-size: 1.5em;
+	text-align: justify;
+}
+
+body{
+
+	color: black;
+	font-family: aerial;
+
+
+}
+
+#otherContents{
+	border:5;
+	border-color: black;
+}
+
+/*fuculties*/
+.fuculties h3{
+
+	color: black;
+}
+
+
+/*vision mision*/
+
+.visionMission-link{
+	margin-top:20px;
+  	color:#fff;
+}
+
+.visionMission a{
+  width:35px;
+  height:35px;
+  cursor:pointer;
+  color:#0af;
+  border-radius:2px;
+  font-size:20px;
+  text-align:center;
+  line-height:35px;
+  margin-right:5px;
+  margin-bottom:5px;
+  font-style: none;
+  text-decoration: none;
+}
+.visionMission a:hover{
+  width:40px;
+  height:40px;
+  cursor:pointer;
+  color:white;
+  border-radius:2px;
+  font-size:20px;
+  text-align:center;
+  line-height:35px;
+  margin-right:5px;
+  margin-bottom:5px;
+  font-style: none;
+  text-decoration: none;
+}
+
+.vision{
+	font-style: none;
+	text-decoration: none;
+	color: black;
+	font-family: aerial;
+}
+.vision h3{
+	text-decoration: bold;
+}
+
+.containerLine{
+  border-top: 5px solid #ffaa40;
+
+}
+
+.visionReadMore:hover{
+	text-decoration: none;
+	font-style: none;
+	color: white;
+}
+.visionReadMore{
+	color: black;
+}
+.sectionTwo p{
+
+	font-size: 1.5em;
+	font-family: aerial;
+	font-style: none;
+	text-align: justify;
+
+
+}
+
+/*footer*/
+.footer-links a li{
+	color: white;
+	list-style: none;
+}
+
+.footer-links li:hover{
+	color: blue;
+	list-style: none;
+	text-decoration: none;
+	font-size: 14;
+
+}
+.contacts li i{
+	color: white;
+}
+
+.footer h3{
+	color: white;
+}
+
+.footer address{
+	color: white;
+}
+.footer p{
+	color:white;
+}
+
+.footer hr{
+	color: brown;
+	line-height: 10.8;
+}
+.fa-phone{
+	color: white;
+}
+
+.social-links{
+  margin-top:20px;
+  color:#fff;
+}
+
+.social-links a{
+  display:inline-block;
+  width:35px;
+  height:35px;
+  cursor:pointer;
+  background-color:rgba(2,2,3,0.5);
+  color:#0af;
+  border-radius:2px;
+  font-size:20px;
+  text-align:center;
+  line-height:35px;
+  margin-right:5px;
+  margin-bottom:5px;
+}
+
+.locatcion-link{
+	margin-top:20px;
+  	color:#fff;
+}
+
+.locatcion-link a{
+  width:35px;
+  height:35px;
+  cursor:pointer;
+  color:#0af;
+  border-radius:2px;
+  font-size:20px;
+  text-align:center;
+  line-height:35px;
+  margin-right:5px;
+  margin-bottom:5px;
+}
+
+/*footer*/
+.marquee{
+	color: white;
+	background: grey;
+	font-style: italic;
+}
+	
+	footer li{
+		color: white;
+	}
+
+	/*fuculties*/
+
+	.fuculties div>li>div>ul>li{
+
+		list-style: none;
+		color: white;
+
+	}
+
+	.fuculties ul>li>ul>li>a>i:hover{
+
+		list-style: none;
+		color: blue;
+
+	}
+	/*FOOTER*/
+	footer{
+		background:#3366CC;
+		color:white;
+	}
+	footer .copyright {
+  background:#0066CC;
+  font-size: 16px;
+  width:auto;
+  color:white;
+  text-align: left;
+  margin-bottom: 0;
+
+}
+
+ol{
+  list-style: none;
+}
+
+/*event and notices*/
+.events{
+  position: relative;
+  background: #4e4e4e;
+  margin-bottom: 10px;
+  border: 1px solid transparent;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  height: 70px;
+
+}
+
+.events li>a{
+	font-size: 20px;
+}
+
+.events:hover{
+	background: #00043d;
+	height:00px
+  border-left:5px solid blue;
+  color: white;
+}
+
+.events li>a:hover{
+  color: white;
+}
+
+.events li>a{
+  text-decoration: none;
+  font-style: none;
+}
+
+.timetable{
+  position: relative;
+  margin-bottom: 10px;
+  background: #0080ff;  
+  border: 1px solid transparent;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+}
+
+.timetable a:hover{
+
+  font-style: none;
+  text-decoration: none;
+}
+.timetable:hover{
+
+  font-style: none;
+  text-decoration: none;
+  opacity: 0.5;
+}
+
+.timetable p{
+  font-size: 20px;
+  color: white;
+}
+.timetable a{
+  text-decoration:none;
+  font-style:none;
